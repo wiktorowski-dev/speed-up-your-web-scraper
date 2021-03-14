@@ -1,6 +1,7 @@
 ## Speed comparison
 
-Here you can find some cores to speed comparison
+Here you can find some cores to speed comparison. 
+The script was set to scrape 250 pages.
 
 > cores = 0, means that the program was run normally without using a multiprocessing library.
 ```json
